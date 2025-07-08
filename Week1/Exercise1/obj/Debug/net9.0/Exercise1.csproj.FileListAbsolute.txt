@@ -12,3 +12,4 @@ C:\Users\Administrator\Desktop\boq\progCSharp\Week1\Exercise1\obj\Debug\net9.0\r
 C:\Users\Administrator\Desktop\boq\progCSharp\Week1\Exercise1\obj\Debug\net9.0\Exercise1.pdb
 C:\Users\Administrator\Desktop\boq\progCSharp\Week1\Exercise1\obj\Debug\net9.0\Exercise1.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\boq\progCSharp\Week1\Exercise1\obj\Debug\net9.0\ref\Exercise1.dll
+C:\Users\Administrator\Desktop\boq\progCSharp\Week1\Exercise1\obj\Debug\net9.0\Exercise1.sourcelink.json
